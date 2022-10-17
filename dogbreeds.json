@@ -1,126 +1,68 @@
- [{
-
+ [
+  {
         "breed": "Labrador Retriever",
-
         "origin": "Canada,USA",
-
         "temperament": "Cheerful, Gentle, Friendly, Intelligent",
-
         "photo": "https://dogtime.com/assets/uploads/2011/01/file_22988_labrador-retriever-300x189.jpg"
-
-    }, {
-
+    },
+  {
         "breed": "German Shepard",
-
         "origin": "Germany",
-
         "temperament": "Corageous, Intelligent, Loyal, Watchful",
-
         "photo": "https://dogtime.com/assets/uploads/2011/01/file_23188_german-shepherd-dog-300x189.jpg"
-
-    }, {
-
+    },
+  {
         "breed": "Golden Retriever",
-
         "origin": "United Kingdom",
-
         "temperament": "Intelligent, Kind, Friendly, Confident",
-
         "photo": "https://dogtime.com/assets/uploads/2011/01/file_22980_golden-retriever-300x189.jpg"
-
-    }, {
-
+    },
+  {
         "breed": "French Bulldog",
-
         "origin": "France, UK",
-
         "temperament": "Playful, Sociable, Friendly, Lively, Patient",
-
         "photo": "https://dogtime.com/assets/uploads/2011/01/file_23150_french-bulldog-300x189.jpg"
-
-
-
-    }, {
-
+    },
+  {
         "breed": "Bulldog",
-
         "origin": "United Kingdom",
-
         "temperament": "Friendly, Docile, Willful, Gregarious",
-
         "photo": "https://dogtime.com/assets/uploads/2011/01/file_23140_bulldog-300x189.jpg"
-
-
-
-    }, {
-
+    },
+  {
         "breed": "Beagle",
-
         "origin": "United Kingdom",
-
-        "temperament": "Gentle", Intelligent, Even Tempered, Determined",
-
+        "temperament": "Gentle", Intelligent, Even #Tempered",
         "photo": "https://dogtime.com/assets/uploads/2011/01/file_23012_beagle-460x290.jpg"
-
-
-
-    }, {
-
+    },
+  {
         "breed": "Poodle",
-
         "origin": "Germany, France",
-
         "temperament": "Intelligent, Faithful, Trainable, Instinctual",
-
         "photo": "https://dogtime.com/assets/uploads/2011/01/file_23200_poodle-300x189.jpg"
-
-
-
-    }, {
-
+    },
+  {
         "breed": "Rottweiler",
-
         "origin": "Germany",
-
         "temperament": "Intelligent, Corageous, Fearless, Confident",
-
         "photo": "https://dogtime.com/assets/uploads/2011/01/file_22942_rottweiler-460x290.jpg"
-
-
-
-    }, {
-
+    },
+  {
         "breed": "German Shorthaired Pointer",
-
         "origin": "Germany",
-
         "temperament": "Intelligent, Trainable, Boisterous, Cooperative",
-
         "photo": "https://dogtime.com/assets/uploads/2011/01/file_22976_german-shorthaired-pointer-300x189.jpg"
-
-
-
-    }, {
-
+    },
+  {
         "breed": "Yorkshire Terrier",
-
         "origin": "United Kingdom",
-
         "temperament": "Independent, Intelligent, Corageous, Confident",
-
         "photo": "https://dogtime.com/assets/uploads/2011/01/file_23132_yorkshire-terrier-300x189.jpg"
-
-
-
-    }, {
-
+    },
+  {
         "breed": "Boxer",
-
         "origin": "Germany",
-
         "temperament": "Playful, Friendly, Devoted, Loyal",
-
         "photo": "https://dogtime.com/assets/uploads/2011/01/file_22916_boxer-460x290.jpg"
     }
  ]
-
